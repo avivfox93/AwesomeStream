@@ -1,6 +1,6 @@
 
 # AwesomeStream
-
+[![](https://jitpack.io/v/avivfox93/AwesomeStreamLib.svg)](https://jitpack.io/#avivfox93/AwesomeStreamLib)
 ## Overview:
 AwesomeStream let you get a pure bytes stream of encoded data from your phone screen.
 The stream can be used to stream* your screen, record your screen or whatever you can think of.
@@ -19,7 +19,7 @@ allprojects {
 Then add the dependency
 ```gradle
 dependencies {
-        implementation 'com.github.avivfox93:AwesomeStream:1.0.0'
+        implementation 'com.github.avivfox93:AwesomeStreamLib:1.0.0'
 }
 ```
 
